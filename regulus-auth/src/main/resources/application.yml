@@ -1,1 +1,5 @@
+server:
+  port: 8764
 
+jwt:
+  rsa-secret: 20(EWD%12^)20x
